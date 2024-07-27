@@ -22,7 +22,7 @@ export default function Footer() {
                 and elegant design.
             </Typography>
             <Typography variant="button">
-                <i>Copyright &#169; {CURRENTYEAR}, By Satyam Kumar</i>
+                <i>Copyright &#169; {CURRENTYEAR}, By Saurav Kumar Arya</i>
             </Typography>
         </Stack>
     );

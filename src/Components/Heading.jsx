@@ -38,7 +38,7 @@ export default function Heading({ darkMode, setDarkMode }) {
                     <strong>Notes Keeper</strong>
                 </MyText>
                 <MyText variant="button">
-                    <i>Created by Satyam Kumar</i>
+                    <i>Created by Saurav Kumar Arya</i>
                 </MyText>
             </Stack>
 
